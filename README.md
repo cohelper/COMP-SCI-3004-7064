@@ -1,6 +1,7 @@
 # COMP-SCI-3004-7064
 
-Adelaide University COMP SCI 3004/7064
+Adelaide University Operating System - COMP SCI 3004/7064
+
 Contact <1617295759w@gmail.com> or Wechat:yuzhe000401
 
 Open for: Existing answer, reservation, and Quiz
